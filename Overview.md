@@ -23,6 +23,7 @@ Overview
 * Deep Learning
 * CNN
 * RNN
+* LSTMs
 * Image recognition
 * NLU
 * NLG
