@@ -21,7 +21,8 @@ Overview
 * Linear & Logistic Regression
 * Clustering
 * Deep Learning
-* Convnets
+* CNN
+* RNN
 * Image recognition
 * NLU
 * NLG
@@ -31,6 +32,12 @@ Overview
 * Resnet
 * BART
 * ...
+
+## Reinforcement Learning
+* Pacman
+* Maze solver
+* AlphaStar
+* Hide and Seek
 
 ## Autonomous Agents
 * Modeling the world (sensors, decision making, actuators)
