@@ -32,13 +32,14 @@ Overview
 ## Transfer learning
 * Resnet
 * BART
-* ...
+* Model Zoo
 
 ## Reinforcement Learning
 * Pacman
 * Maze solver
 * AlphaStar
 * Hide and Seek
+* Deep Reinforcement Learning
 
 ## Autonomous Agents
 * Modeling the world (sensors, decision making, actuators)
