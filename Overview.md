@@ -40,6 +40,7 @@ Overview
 * AlphaStar
 * Hide and Seek
 * Deep Reinforcement Learning
+* [Behaviour suite for RL](https://www.youtube.com/redirect?event=video_description&v=zrF5_O92ELQ&redir_token=sEHe2WhZP1fxN2FtOJwT2qPfvOl8MTU3MDI4MjYwNEAxNTcwMTk2MjA0&q=https%3A%2F%2Farxiv.org%2Fabs%2F1908.03568)
 
 ## Autonomous Agents
 * Modeling the world (sensors, decision making, actuators)
