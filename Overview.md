@@ -31,7 +31,7 @@ Overview
 
 ## Transfer learning
 * Resnet
-* BART
+* BERT & TinyBERT
 * Model Zoo
 
 ## Reinforcement Learning
