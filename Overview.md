@@ -62,9 +62,16 @@ Overview
 * Stats
 * Basic calculus
 
+## Papers
+* How to read papers
+* Great papers
+** GPT2
+** Shannon's Communication Paper
+** GANs
+** AlphaGo
+
 ## Professionalism
 * Philosophy and ethics
-* Keeping up to date: papers
 * Communicating with the board
 
 ## Misc
