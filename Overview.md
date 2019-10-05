@@ -25,6 +25,8 @@ Overview
 * RNN
 * LSTMs
 * Image recognition
+* SVD
+* PCA
 * NLU
 * NLG
 * Generative models
@@ -65,10 +67,10 @@ Overview
 ## Papers
 * How to read papers
 * Great papers
-** GPT2
-** Shannon's Communication Paper
-** GANs
-** AlphaGo
+  * GPT2
+  * Shannon's Communication Paper
+  * GANs
+  * AlphaGo
 
 ## Professionalism
 * Philosophy and ethics
