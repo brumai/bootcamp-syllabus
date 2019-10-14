@@ -20,16 +20,22 @@ Overview
 
 * Linear & Logistic Regression
 * Clustering
-* Deep Learning
-* CNN
+* Neural Networks & Deep Learning
+* Image recognition with CNN
 * RNN
 * LSTMs
-* Image recognition
-* SVD
+* Support Vector Machines
 * PCA
 * NLU
 * NLG
 * Generative models
+
+## Search
+* Uninformed Search - Depth first, breadth-first
+* Search with heuristics, RBFS, Greedy best-first search, A*
+* Adversarial Search
+* Simulated Annealing
+* Genetic Algorithms
 
 ## Transfer learning
 * Resnet
